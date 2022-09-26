@@ -35,4 +35,6 @@ jobs:
       - name: Add data record to data.json
         id: outputparser
         uses: BattleRush/eth-compilerdesign-leaderboard-action@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
 
