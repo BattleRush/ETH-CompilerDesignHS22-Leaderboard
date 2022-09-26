@@ -1,5 +1,9 @@
-#ETH Compiler Design HS22 Leaderboard
+# ETH Compiler Design HS22 Leaderboard
 
-| Project | Team | Score |
-| --- | --- | --- |
-| undefined | anonymous | 0 |
+## Hellocaml
+
+| Position | Team | Score | % Score | Passing | Failing |
+| --- | --- | --- | --- | --- | --- |
+| 1| n/a | 0 | 0.00 | undefined | undefined |
+
+
