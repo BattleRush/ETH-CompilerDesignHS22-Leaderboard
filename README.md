@@ -1,1 +1,5 @@
-[{"teamName":"anonymous","projects":[{"name":"Project 1","score":67,"maxScore":67,"passed":75,"failed":0},{"name":"Project 2","score":17,"maxScore":46,"passed":51,"failed":104}]},{"teamName":"anonymous","projects":[{"name":"Project 1","score":67,"maxScore":67,"passed":75,"failed":0},{"name":"Project 2","score":17,"maxScore":46,"passed":51,"failed":104}]},{"teamName":"anonymous","projects":[{"name":"Project 1","score":67,"maxScore":67,"passed":75,"failed":0},{"name":"Project 2","score":17,"maxScore":46,"passed":51,"failed":104}]}]
+#ETH Compiler Design HS22 Leaderboard
+
+| Project | Team | Score |
+| --- | --- | --- |
+| undefined | anonymous | 0 |
