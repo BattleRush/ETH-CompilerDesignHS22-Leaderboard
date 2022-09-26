@@ -4,6 +4,6 @@
 
 | Position | Team | Score | % Score | Passing | Failing |
 | --- | --- | --- | --- | --- | --- |
-| 1| anonymous | 67 | 0.67 | undefined | undefined |
+| 1| anonymous | 67 | NaN | 75 | 0 |
 
 
