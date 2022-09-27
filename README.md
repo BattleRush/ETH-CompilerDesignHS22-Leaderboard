@@ -6,10 +6,6 @@
 
 | Position | Team | Score | % Score | Passing | Failing |
 | --- | --- | --- | --- | --- | --- |
-| 1| api test | 67 | 100 | 75 | undefined |
-| 2| api test 123 | 67 | 100 | 75 | 0 |
-| 3| SVNGIT | 67 | 100 | 76 | 0 |
-| 4| api test live | 67 | 100 | 67 | 0 |
-| 5| BattleRush | 0 | 0 | 0 | 67 |
+| 1| BattleRush | 0 | 0 | 0 | 67 |
 
 
