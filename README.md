@@ -7,5 +7,6 @@
 | Position | Team | Score | % Score | Passing | Failing |
 | --- | --- | --- | --- | --- | --- |
 | 1| BattleRush | 67 | 100 | 75 | 0 |
+| 2| YOURTEAMNAME | 52 | 77.61 | 55 | 12 |
 
 
