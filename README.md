@@ -7,5 +7,6 @@
 | Position | Team | Score | % Score | Passing | Failing |
 | --- | --- | --- | --- | --- | --- |
 | 1| api test | 67 | 100 | 75 | undefined |
+| 2| BattleRush | 0 | 0 | 0 | 67 |
 
 
