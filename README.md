@@ -6,6 +6,7 @@
 
 | Position | Team | Score | % Score | Passing | Failing |
 | --- | --- | --- | --- | --- | --- |
-| 1| BattleRush | 0 | 0 | 0 | 67 |
+| 1| SVN BETTER GIT | 67 | 100 | 76 | 0 |
+| 2| BattleRush | 0 | 0 | 0 | 67 |
 
 
