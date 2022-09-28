@@ -8,6 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 1| SVN BETTER GIT | 67 | 100 | 76 | 0 |
 | 2| DannyDrDebugger | 67 | 100 | 101 | 0 |
-| 3| some team name | 0 | 0 | 0 | 67 |
+| 3| reject python | 67 | 100 | 75 | 0 |
+| 4| some team name | 0 | 0 | 0 | 67 |
 
 
