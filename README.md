@@ -13,9 +13,9 @@
 | 5| some team name | 34 | 50.75 | 0 | 67 | 28.9.2022, 14:41:50 (UTC) |
 
 
-## Project 4: Compiling Oat v.1
+## Project 3: Compiling LLVM
 
-### Max score: -1
+### Max score: 77
 
 | Position | Team | Score | % Score | Passing | Failing | First best submission |
 | --- | --- | --- | --- | --- | --- | --- |
