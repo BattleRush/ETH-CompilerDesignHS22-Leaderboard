@@ -474,5 +474,18 @@
         "dateTime": "2022-10-03T11:59:51.030Z"
       }
     ]
+  },
+  {
+    "teamName": "Cashen",
+    "projects": [
+      {
+        "projectId": 1,
+        "score": 67,
+        "maxScore": 67,
+        "passed": 69,
+        "failed": 0,
+        "dateTime": "2022-10-03T12:18:34.614Z"
+      }
+    ]
   }
 ]
