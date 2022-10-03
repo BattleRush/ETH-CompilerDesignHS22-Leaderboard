@@ -12,5 +12,6 @@
 | 1| reject python | 67 | 100 | 75 | 0 | 28.9.2022, 18:36:12 (UTC) |
 | 1| Yawn | 67 | 100 | 235 | 0 | 1.10.2022, 17:04:57 (UTC) |
 | 1| Maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | 67 | 100 | 5032 | 0 | 1.10.2022, 17:40:44 (UTC) |
+| 1| Cashen | 67 | 100 | 69 | 0 | 3.10.2022, 14:18:34 (UTC) |
 
 
