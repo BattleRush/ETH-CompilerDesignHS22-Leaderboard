@@ -6,7 +6,6 @@
 
 | Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1| api test live | 67 | 100 | 67 | 0 | 27.9.2022, 16:57:21 |
 | 1| SVN BETTER GIT | 67 | 100 | 78 | 0 | 28.9.2022, 08:45:20 |
 | 1| DannyDrDebugger | 67 | 100 | 101 | 0 | 28.9.2022, 10:34:52 |
 | 1| reject python | 67 | 100 | 75 | 0 | 28.9.2022, 18:36:12 |
