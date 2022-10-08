@@ -565,5 +565,18 @@
         "dateTime": "2022-10-08T19:53:56.417Z"
       }
     ]
+  },
+  {
+    "teamName": "some team name",
+    "projects": [
+      {
+        "projectId": 1,
+        "score": 67,
+        "maxScore": 67,
+        "passed": 69,
+        "failed": 0,
+        "dateTime": "2022-10-08T20:58:29.059Z"
+      }
+    ]
   }
 ]
