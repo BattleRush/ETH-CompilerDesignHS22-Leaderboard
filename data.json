@@ -55,14 +55,6 @@
     "teamName": "some team name",
     "projects": [
       {
-        "projectId": 2,
-        "score": 17,
-        "maxScore": 46,
-        "passed": 35,
-        "failed": 21,
-        "dateTime": "2022-09-28T12:41:50.992Z"
-      },
-      {
         "projectId": 1,
         "score": 0,
         "maxScore": 67,
@@ -75,14 +67,6 @@
   {
     "teamName": "some team name",
     "projects": [
-      {
-        "projectId": 2,
-        "score": 17,
-        "maxScore": 46,
-        "passed": 35,
-        "failed": 21,
-        "dateTime": "2022-09-28T13:22:45.601Z"
-      },
       {
         "projectId": 1,
         "score": 0,
@@ -110,14 +94,6 @@
     "teamName": "some team name",
     "projects": [
       {
-        "projectId": 2,
-        "score": 17,
-        "maxScore": 46,
-        "passed": 35,
-        "failed": 21,
-        "dateTime": "2022-09-29T09:34:56.939Z"
-      },
-      {
         "projectId": 1,
         "score": 34,
         "maxScore": 67,
@@ -130,14 +106,6 @@
   {
     "teamName": "some team name",
     "projects": [
-      {
-        "projectId": 2,
-        "score": 17,
-        "maxScore": 46,
-        "passed": 35,
-        "failed": 21,
-        "dateTime": "2022-09-29T09:39:57.300Z"
-      },
       {
         "projectId": 1,
         "score": 34,
@@ -191,14 +159,6 @@
     "teamName": "some team name",
     "projects": [
       {
-        "projectId": 2,
-        "score": 25,
-        "maxScore": 46,
-        "passed": 40,
-        "failed": 16,
-        "dateTime": "2022-09-29T15:27:39.917Z"
-      },
-      {
         "projectId": 1,
         "score": 34,
         "maxScore": 67,
@@ -211,14 +171,6 @@
   {
     "teamName": "some team name",
     "projects": [
-      {
-        "projectId": 2,
-        "score": 27,
-        "maxScore": 46,
-        "passed": 41,
-        "failed": 15,
-        "dateTime": "2022-09-30T08:59:28.431Z"
-      },
       {
         "projectId": 1,
         "score": 34,
@@ -233,14 +185,6 @@
     "teamName": "some team name",
     "projects": [
       {
-        "projectId": 2,
-        "score": 34,
-        "maxScore": 46,
-        "passed": 44,
-        "failed": 12,
-        "dateTime": "2022-09-30T16:01:21.504Z"
-      },
-      {
         "projectId": 1,
         "score": 34,
         "maxScore": 67,
@@ -254,14 +198,6 @@
     "teamName": "some team name",
     "projects": [
       {
-        "projectId": 2,
-        "score": 36,
-        "maxScore": 46,
-        "passed": 54,
-        "failed": 2,
-        "dateTime": "2022-09-30T22:13:52.759Z"
-      },
-      {
         "projectId": 1,
         "score": 34,
         "maxScore": 67,
@@ -274,14 +210,6 @@
   {
     "teamName": "some team name",
     "projects": [
-      {
-        "projectId": 2,
-        "score": 36,
-        "maxScore": 46,
-        "passed": 54,
-        "failed": 2,
-        "dateTime": "2022-10-01T13:39:03.471Z"
-      },
       {
         "projectId": 1,
         "score": 57,
@@ -322,14 +250,6 @@
     "teamName": "some team name",
     "projects": [
       {
-        "projectId": 2,
-        "score": 36,
-        "maxScore": 46,
-        "passed": 54,
-        "failed": 2,
-        "dateTime": "2022-10-02T10:15:03.079Z"
-      },
-      {
         "projectId": 1,
         "score": 57,
         "maxScore": 67,
@@ -342,14 +262,6 @@
   {
     "teamName": "some team name",
     "projects": [
-      {
-        "projectId": 2,
-        "score": 36,
-        "maxScore": 46,
-        "passed": 54,
-        "failed": 2,
-        "dateTime": "2022-10-02T11:15:27.641Z"
-      },
       {
         "projectId": 1,
         "score": 57,
@@ -364,14 +276,6 @@
     "teamName": "some team name",
     "projects": [
       {
-        "projectId": 2,
-        "score": 36,
-        "maxScore": 46,
-        "passed": 54,
-        "failed": 2,
-        "dateTime": "2022-10-02T13:47:01.965Z"
-      },
-      {
         "projectId": 1,
         "score": 59,
         "maxScore": 67,
@@ -385,14 +289,6 @@
     "teamName": "some team name",
     "projects": [
       {
-        "projectId": 2,
-        "score": 36,
-        "maxScore": 46,
-        "passed": 54,
-        "failed": 2,
-        "dateTime": "2022-10-02T14:08:12.880Z"
-      },
-      {
         "projectId": 1,
         "score": 59,
         "maxScore": 67,
@@ -405,14 +301,6 @@
   {
     "teamName": "some team name",
     "projects": [
-      {
-        "projectId": 2,
-        "score": 36,
-        "maxScore": 46,
-        "passed": 54,
-        "failed": 2,
-        "dateTime": "2022-10-02T14:48:53.168Z"
-      },
       {
         "projectId": 1,
         "score": 67,
@@ -433,19 +321,6 @@
         "passed": 1e+27,
         "failed": 0,
         "dateTime": "2022-10-02T19:10:40.728Z"
-      }
-    ]
-  },
-  {
-    "teamName": "Maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-    "projects": [
-      {
-        "projectId": 3,
-        "score": 69,
-        "maxScore": 69,
-        "passed": 6.969696969696969e+65,
-        "failed": 0,
-        "dateTime": "2022-10-02T19:13:54.991Z"
       }
     ]
   },
