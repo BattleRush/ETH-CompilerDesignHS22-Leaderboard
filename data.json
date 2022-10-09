@@ -643,5 +643,18 @@
         "dateTime": "2022-10-09T07:35:50.712Z"
       }
     ]
+  },
+  {
+    "teamName": "TODO YOUR_TEAM_NAME",
+    "projects": [
+      {
+        "projectId": 1,
+        "score": 67,
+        "maxScore": 67,
+        "passed": 67,
+        "failed": 0,
+        "dateTime": "2022-10-09T18:42:05.607Z"
+      }
+    ]
   }
 ]
