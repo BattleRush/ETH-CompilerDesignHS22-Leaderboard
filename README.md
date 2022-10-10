@@ -4,6 +4,9 @@
 
 ### Max score: 67
 
+<details>
+<summary>Click to expand</summary>
+
 | Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1| SVN BETTER GIT | 67 | 100 | 78 | 0 | 28.9.2022, 08:45:20 |
@@ -15,5 +18,7 @@
 | 1| Cashen | 67 | 100 | 69 | 0 | 3.10.2022, 14:18:34 |
 | 1| TODO YOURTEAMNAME | 67 | 100 | 67 | 0 | 9.10.2022, 20:42:05 |
 | 1| Jov | 67 | 100 | 78 | 0 | 10.10.2022, 01:41:08 |
+
+</details>
 
 
