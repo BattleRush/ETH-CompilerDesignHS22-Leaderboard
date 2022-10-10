@@ -3,7 +3,6 @@
 ## Project 2: x86Lite
 
 ### Max score: 46
-
 ### Total teams: 9
 
 | Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
@@ -14,11 +13,10 @@
 ## Project 1: Hellocaml
 
 ### Max score: 67
-
-### Total teams: 9
-
 <details>
 <summary>Click to expand</summary>
+
+### Total teams: 9
 
 | Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
 | --- | --- | --- | --- | --- | --- | --- |
