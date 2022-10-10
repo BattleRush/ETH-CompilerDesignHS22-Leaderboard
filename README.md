@@ -1,5 +1,19 @@
 # ETH Compiler Design HS22 Leaderboard
 
+## Project 2: x86Lite
+
+### Max score: 46
+
+<details>
+<summary>Click to expand</summary>
+
+| Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1| some team name | 46 | 100 | 153 | 2 | 10.10.2022, 21:06:31 |
+
+</details>
+
+
 ## Project 1: Hellocaml
 
 ### Max score: 67
