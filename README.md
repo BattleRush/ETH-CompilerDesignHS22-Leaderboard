@@ -7,7 +7,7 @@
 
 | Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1| some team name | 46 | 100 | 153 | 2 | 10.10.2022, 21:06:31 |
+| 1| some team name | 46 | 100 | 154 | 1 | 10.10.2022, 21:06:31 |
 | 2| reject python | 5 | 10.87 | 13 | 43 | 11.10.2022, 10:57:44 |
 
 
