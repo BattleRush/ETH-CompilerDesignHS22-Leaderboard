@@ -3,12 +3,13 @@
 ## Project 2: x86Lite
 
 ### Project score: 46
-### Total teams: 2
+### Total teams: 3
 
 | Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1| some team name | 46 | 100 | 155 | 0 | 10.10.2022, 21:06:31 |
 | 2| reject python | 5 | 10.87 | 13 | 43 | 11.10.2022, 10:57:44 |
+| 3| DannyDrDebugger | 0 | 0 | 0 | 56 | 11.10.2022, 19:16:01 |
 
 
 ## Project 1: Hellocaml
