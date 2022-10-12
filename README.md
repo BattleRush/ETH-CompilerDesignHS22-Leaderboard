@@ -8,7 +8,7 @@
 | Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1| some team name | 46 | 100 | 557 | 0 | 10.10.2022, 21:06:31 |
-| 2| reject python | 14 | 30.43 | 39 | 17 | 12.10.2022, 18:03:14 |
+| 2| reject python | 15 | 32.61 | 42 | 14 | 12.10.2022, 18:23:03 |
 | 3| DannyDrDebugger | 0 | 0 | 0 | 56 | 11.10.2022, 19:16:01 |
 
 
