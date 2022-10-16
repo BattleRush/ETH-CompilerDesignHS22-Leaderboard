@@ -2019,5 +2019,26 @@
         "dateTime": "2022-10-15T20:40:14.932Z"
       }
     ]
+  },
+  {
+    "teamName": "Jov",
+    "projects": [
+      {
+        "projectId": 1,
+        "score": 67,
+        "maxScore": 67,
+        "passed": 78,
+        "failed": 0,
+        "dateTime": "2022-10-16T07:56:24.712Z"
+      },
+      {
+        "projectId": 2,
+        "score": 16,
+        "maxScore": 46,
+        "passed": 117,
+        "failed": 38,
+        "dateTime": "2022-10-16T07:56:24.712Z"
+      }
+    ]
   }
 ]
