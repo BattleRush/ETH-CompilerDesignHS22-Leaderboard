@@ -3,20 +3,21 @@
 ## Project 2: x86Lite
 
 ### Project score: 46
-### Total teams: 4
+### Total teams: 5
 
 | Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1| some team name | 46 | 100 | 1841 | 0 | 10.10.2022, 21:06:31 |
 | 1| Jov | 46 | 100 | 1846 | 0 | 16.10.2022, 20:28:17 |
 | 1| DannyDrDebugger | 46 | 100 | 566 | 0 | 18.10.2022, 16:21:37 |
-| 4| reject python | 16 | 34.78 | 326 | 11 | 13.10.2022, 22:00:20 |
+| 1| gewlar | 46 | 100 | 1846 | 0 | 20.10.2022, 09:48:02 |
+| 5| reject python | 16 | 34.78 | 326 | 11 | 13.10.2022, 22:00:20 |
 
 
 ## Project 1: Hellocaml
 
 ### Project score: 67
-### Total teams: 9
+### Total teams: 10
 
 <details>
 <summary>Click to expand</summary>
@@ -32,6 +33,7 @@
 | 1| Cashen | 67 | 100 | 69 | 0 | 3.10.2022, 14:18:34 |
 | 1| TODO YOURTEAMNAME | 67 | 100 | 67 | 0 | 9.10.2022, 20:42:05 |
 | 1| Jov | 67 | 100 | 78 | 0 | 10.10.2022, 01:41:08 |
+| 1| gewlar | 67 | 100 | 94 | 0 | 20.10.2022, 09:48:02 |
 
 </details>
 
