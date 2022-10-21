@@ -2872,5 +2872,26 @@
         "dateTime": "2022-10-21T05:22:30.351Z"
       }
     ]
+  },
+  {
+    "teamName": "reject python",
+    "projects": [
+      {
+        "projectId": 1,
+        "score": 67,
+        "maxScore": 67,
+        "passed": 75,
+        "failed": 0,
+        "dateTime": "2022-10-21T05:25:59.226Z"
+      },
+      {
+        "projectId": 2,
+        "score": 46,
+        "maxScore": 46,
+        "passed": 1320,
+        "failed": 0,
+        "dateTime": "2022-10-21T05:25:59.226Z"
+      }
+    ]
   }
 ]
