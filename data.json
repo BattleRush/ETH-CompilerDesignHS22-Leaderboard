@@ -3244,5 +3244,26 @@
         "dateTime": "2022-10-22T19:17:59.331Z"
       }
     ]
+  },
+  {
+    "teamName": "SVN BETTER GIT",
+    "projects": [
+      {
+        "projectId": 1,
+        "score": 67,
+        "maxScore": 67,
+        "passed": 78,
+        "failed": 0,
+        "dateTime": "2022-10-22T19:34:31.962Z"
+      },
+      {
+        "projectId": 2,
+        "score": 46,
+        "maxScore": 46,
+        "passed": 155,
+        "failed": 0,
+        "dateTime": "2022-10-22T19:34:31.962Z"
+      }
+    ]
   }
 ]
