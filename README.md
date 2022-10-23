@@ -3,7 +3,7 @@
 ## Project 2: x86Lite
 
 ### Project score: 46
-### Total teams: 6
+### Total teams: 7
 
 | Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -13,12 +13,13 @@
 | 1| gewlar | 46 | 100 | 1846 | 0 | 20.10.2022, 09:48:02 |
 | 1| reject python | 46 | 100 | 1320 | 0 | 21.10.2022, 07:22:30 |
 | 1| SVN BETTER GIT | 46 | 100 | 155 | 0 | 22.10.2022, 21:34:31 |
+| 1| JovAlv | 46 | 100 | 1846 | 0 | 23.10.2022, 14:41:14 |
 
 
 ## Project 1: Hellocaml
 
 ### Project score: 67
-### Total teams: 10
+### Total teams: 11
 
 <details>
 <summary>Click to expand</summary>
@@ -35,6 +36,7 @@
 | 1| TODO YOURTEAMNAME | 67 | 100 | 67 | 0 | 9.10.2022, 20:42:05 |
 | 1| Jov | 67 | 100 | 78 | 0 | 10.10.2022, 01:41:08 |
 | 1| gewlar | 67 | 100 | 94 | 0 | 20.10.2022, 09:48:02 |
+| 1| JovAlv | 67 | 100 | 78 | 0 | 23.10.2022, 14:41:14 |
 
 </details>
 
