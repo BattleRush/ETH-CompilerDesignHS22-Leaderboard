@@ -3265,5 +3265,26 @@
         "dateTime": "2022-10-22T19:34:31.962Z"
       }
     ]
+  },
+  {
+    "teamName": "Jov",
+    "projects": [
+      {
+        "projectId": 1,
+        "score": 67,
+        "maxScore": 67,
+        "passed": 78,
+        "failed": 0,
+        "dateTime": "2022-10-23T12:38:00.114Z"
+      },
+      {
+        "projectId": 2,
+        "score": 46,
+        "maxScore": 46,
+        "passed": 1846,
+        "failed": 0,
+        "dateTime": "2022-10-23T12:38:00.115Z"
+      }
+    ]
   }
 ]
