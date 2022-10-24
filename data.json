@@ -3467,5 +3467,26 @@
         "dateTime": "2022-10-24T07:54:51.849Z"
       }
     ]
+  },
+  {
+    "teamName": "gewlar",
+    "projects": [
+      {
+        "projectId": 1,
+        "score": 67,
+        "maxScore": 67,
+        "passed": 94,
+        "failed": 0,
+        "dateTime": "2022-10-24T09:15:07.986Z"
+      },
+      {
+        "projectId": 2,
+        "score": 46,
+        "maxScore": 46,
+        "passed": 1846,
+        "failed": 0,
+        "dateTime": "2022-10-24T09:15:07.986Z"
+      }
+    ]
   }
 ]
