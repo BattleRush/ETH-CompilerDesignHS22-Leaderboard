@@ -1,9 +1,22 @@
 # ETH Compiler Design HS22 Leaderboard
 
+## Project 3: Compiling LLVM
+
+### Project score: 77
+### Total teams: 1
+
+| Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1| reject python | 0 | 0 | 0 | 53 | 24.10.2022, 16:57:15 |
+
+
 ## Project 2: x86Lite
 
 ### Project score: 46
 ### Total teams: 7
+
+<details>
+<summary>Click to expand</summary>
 
 | Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -14,6 +27,8 @@
 | 1| reject python | 46 | 100 | 1320 | 0 | 21.10.2022, 07:22:30 |
 | 1| SVN BETTER GIT | 46 | 100 | 155 | 0 | 22.10.2022, 21:34:31 |
 | 1| JovAlv | 46 | 100 | 1846 | 0 | 23.10.2022, 14:41:14 |
+
+</details>
 
 
 ## Project 1: Hellocaml
