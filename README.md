@@ -3,7 +3,7 @@
 ## Project 3: Compiling LLVM
 
 ### Project score: 77
-### Total teams: 4
+### Total teams: 5
 
 | Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -11,6 +11,7 @@
 | 1| some team name | 0 | 0 | 0 | 53 | 24.10.2022, 17:35:43 |
 | 1| JovAlv | 0 | 0 | 0 | 53 | 24.10.2022, 19:29:49 |
 | 1| gewlar | 0 | 0 | 0 | 53 | 24.10.2022, 22:01:47 |
+| 1| DannyDrDebugger | 0 | 0 | 0 | 53 | 25.10.2022, 10:36:17 |
 
 
 ## Project 2: x86Lite
