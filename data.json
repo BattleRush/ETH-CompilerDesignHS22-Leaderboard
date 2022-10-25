@@ -3904,5 +3904,34 @@
         "dateTime": "2022-10-25T08:18:08.489Z"
       }
     ]
+  },
+  {
+    "teamName": "some team name",
+    "projects": [
+      {
+        "projectId": 3,
+        "score": 0,
+        "maxScore": 77,
+        "passed": 0,
+        "failed": 53,
+        "dateTime": "2022-10-25T08:22:56.365Z"
+      },
+      {
+        "projectId": 1,
+        "score": 67,
+        "maxScore": 67,
+        "passed": 69,
+        "failed": 0,
+        "dateTime": "2022-10-25T08:22:56.365Z"
+      },
+      {
+        "projectId": 2,
+        "score": 46,
+        "maxScore": 46,
+        "passed": 1841,
+        "failed": 6,
+        "dateTime": "2022-10-25T08:22:56.365Z"
+      }
+    ]
   }
 ]
