@@ -7174,5 +7174,34 @@
         "dateTime": "2022-11-03T22:12:36.925Z"
       }
     ]
+  },
+  {
+    "teamName": "some team name",
+    "projects": [
+      {
+        "projectId": 3,
+        "score": 77,
+        "maxScore": 77,
+        "passed": 135,
+        "failed": 1,
+        "dateTime": "2022-11-04T00:20:06.212Z"
+      },
+      {
+        "projectId": 1,
+        "score": 67,
+        "maxScore": 67,
+        "passed": 69,
+        "failed": 0,
+        "dateTime": "2022-11-04T00:20:06.212Z"
+      },
+      {
+        "projectId": 2,
+        "score": 46,
+        "maxScore": 46,
+        "passed": 1841,
+        "failed": 6,
+        "dateTime": "2022-11-04T00:20:06.213Z"
+      }
+    ]
   }
 ]
