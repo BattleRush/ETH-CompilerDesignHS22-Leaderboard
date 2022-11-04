@@ -7282,9 +7282,9 @@
         "projectId": 3,
         "score": 77,
         "maxScore": 77,
-        "passed": 136,
-        "failed": 0,
-        "dateTime": "2022-11-04T08:12:21.274Z"
+        "passed": 53,
+        "failed": 83,
+        "dateTime": "2022-11-04T08:12:21.983Z"
       },
       {
         "projectId": 1,
@@ -7292,7 +7292,7 @@
         "maxScore": 67,
         "passed": 75,
         "failed": 0,
-        "dateTime": "2022-11-04T08:12:21.274Z"
+        "dateTime": "2022-11-04T08:12:21.984Z"
       }
     ]
   }
