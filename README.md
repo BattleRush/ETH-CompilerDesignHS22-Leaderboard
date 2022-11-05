@@ -3,7 +3,7 @@
 ## Project 3: Compiling LLVM
 
 ### Project score: 77
-### Total teams: 6
+### Total teams: 7
 
 | Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -13,6 +13,7 @@
 | 1| JovAlv | 77 | 100 | 53 | 0 | 2.11.2022, 21:58:34 |
 | 1| reject python | 77 | 100 | 53 | 0 | 3.11.2022, 19:23:50 |
 | 1| DannyDrDebugger | 77 | 100 | 136 | 0 | 4.11.2022, 10:51:47 |
+| 1| SVN BETTER GIT | 77 | 100 | 53 | 0 | 5.11.2022, 15:09:06 |
 
 
 ## Project 2: x86Lite
