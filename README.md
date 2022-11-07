@@ -5,6 +5,9 @@
 ### Project score: 77
 ### Total teams: 7
 
+<details>
+<summary>Click to expand</summary>
+
 | Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1| gewlar | 77 | 100 | 136 | 0 | 27.10.2022, 23:38:23 |
@@ -14,6 +17,8 @@
 | 1| reject python | 77 | 100 | 53 | 0 | 3.11.2022, 19:23:50 |
 | 1| DannyDrDebugger | 77 | 100 | 136 | 0 | 4.11.2022, 10:51:47 |
 | 1| SVN BETTER GIT | 77 | 100 | 53 | 0 | 5.11.2022, 15:09:06 |
+
+</details>
 
 
 ## Project 2: x86Lite
