@@ -12072,5 +12072,42 @@
         "dateTime": "2022-11-12T17:28:24.240Z"
       }
     ]
+  },
+  {
+    "teamName": "JovAlv",
+    "projects": [
+      {
+        "projectId": 3,
+        "score": 77,
+        "maxScore": 77,
+        "passed": 135,
+        "failed": 1,
+        "dateTime": "2022-11-12T21:16:15.358Z"
+      },
+      {
+        "projectId": 4,
+        "score": 15,
+        "maxScore": 80,
+        "passed": 53,
+        "failed": 107,
+        "dateTime": "2022-11-12T21:16:15.358Z"
+      },
+      {
+        "projectId": 1,
+        "score": 67,
+        "maxScore": 67,
+        "passed": 78,
+        "failed": 0,
+        "dateTime": "2022-11-12T21:16:15.358Z"
+      },
+      {
+        "projectId": 2,
+        "score": 46,
+        "maxScore": 46,
+        "passed": 1846,
+        "failed": 0,
+        "dateTime": "2022-11-12T21:16:15.358Z"
+      }
+    ]
   }
 ]
