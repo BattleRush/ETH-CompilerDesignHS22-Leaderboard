@@ -3,7 +3,7 @@
 ## Project 5: Compiling Full Oat
 
 ### Project score: 80
-### Total teams: 4
+### Total teams: 5
 
 | Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -11,6 +11,7 @@
 | 2| gewlar | 0 | 0 | 0 | 205 | 21.11.2022, 15:30:43 |
 | 2| JovAlv | 0 | 0 | 0 | 205 | 21.11.2022, 15:35:37 |
 | 2| reject python | 0 | 0 | 0 | 205 | 21.11.2022, 18:15:50 |
+| 2| DannyDrDebugger | 0 | 0 | 0 | 205 | 21.11.2022, 19:01:00 |
 
 
 ## Project 3: Compiling LLVM
