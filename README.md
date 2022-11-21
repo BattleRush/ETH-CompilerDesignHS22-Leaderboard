@@ -1,5 +1,15 @@
 # ETH Compiler Design HS22 Leaderboard
 
+## Project 5: Compiling Full Oat
+
+### Project score: 80
+### Total teams: 1
+
+| Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1| gewlar | 0 | 0 | 0 | 205 | 21.11.2022, 15:30:43 |
+
+
 ## Project 3: Compiling LLVM
 
 ### Project score: 77
