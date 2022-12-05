@@ -1,9 +1,22 @@
 # ETH Compiler Design HS22 Leaderboard
 
+## Project 6: Dataflow Analysis and Register Allocation
+
+### Project score: 100
+### Total teams: 1
+
+| Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1| some team name | 95 | 95 | 359 | 14 | 5.12.2022, 23:59:04 |
+
+
 ## Project 5: Compiling Full Oat
 
 ### Project score: 80
 ### Total teams: 5
+
+<details>
+<summary>Click to expand</summary>
 
 | Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -12,6 +25,27 @@
 | 1| JovAlv | 80 | 100 | 328 | 0 | 30.11.2022, 10:54:32 |
 | 1| some team name | 80 | 100 | 328 | 13 | 30.11.2022, 14:58:32 |
 | 1| DannyDrDebugger | 80 | 100 | 325 | 0 | 30.11.2022, 15:19:14 |
+
+</details>
+
+
+## Project 4: Compiling Oat v.1
+
+### Project score: 80
+### Total teams: 5
+
+<details>
+<summary>Click to expand</summary>
+
+| Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1| some team name | 80 | 100 | 231 | 0 | 7.11.2022, 15:03:03 |
+| 1| gewlar | 80 | 100 | 278 | 0 | 16.11.2022, 18:44:07 |
+| 1| DannyDrDebugger | 80 | 100 | 278 | 0 | 19.11.2022, 15:55:36 |
+| 1| JovAlv | 80 | 100 | 278 | 0 | 20.11.2022, 08:58:09 |
+| 1| reject python | 80 | 100 | 278 | 0 | 21.11.2022, 18:11:37 |
+
+</details>
 
 
 ## Project 3: Compiling LLVM
