@@ -8,8 +8,8 @@
 | Position | Team | Score | % Score | Passing | Failing | Time (CET/CEST) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1| some team name | 95 | 95 | 359 | 14 | 5.12.2022, 23:59:04 |
-| 2| reject python | 0 | 0 | 0 | 373 | 6.12.2022, 09:48:29 |
-| 2| gewlar | 0 | 0 | 0 | 373 | 6.12.2022, 11:55:03 |
+| 2| gewlar | 10 | 10 | 17 | 356 | 6.12.2022, 15:58:23 |
+| 3| reject python | 0 | 0 | 0 | 373 | 6.12.2022, 09:48:29 |
 
 
 ## Project 5: Compiling Full Oat
