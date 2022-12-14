@@ -19121,5 +19121,58 @@
         "dateTime": "2022-12-14T20:37:46.037Z"
       }
     ]
+  },
+  {
+    "teamName": "JovAlv",
+    "projects": [
+      {
+        "projectId": 6,
+        "score": 96,
+        "maxScore": 100,
+        "passed": 363,
+        "failed": 10,
+        "dateTime": "2022-12-14T20:52:02.924Z"
+      },
+      {
+        "projectId": 3,
+        "score": 77,
+        "maxScore": 77,
+        "passed": 135,
+        "failed": 1,
+        "dateTime": "2022-12-14T20:52:02.924Z"
+      },
+      {
+        "projectId": 4,
+        "score": 80,
+        "maxScore": 80,
+        "passed": 278,
+        "failed": 0,
+        "dateTime": "2022-12-14T20:52:02.925Z"
+      },
+      {
+        "projectId": 1,
+        "score": 67,
+        "maxScore": 67,
+        "passed": 78,
+        "failed": 0,
+        "dateTime": "2022-12-14T20:52:02.925Z"
+      },
+      {
+        "projectId": 5,
+        "score": 80,
+        "maxScore": 80,
+        "passed": 328,
+        "failed": 0,
+        "dateTime": "2022-12-14T20:52:02.926Z"
+      },
+      {
+        "projectId": 2,
+        "score": 46,
+        "maxScore": 46,
+        "passed": 1846,
+        "failed": 0,
+        "dateTime": "2022-12-14T20:52:02.926Z"
+      }
+    ]
   }
 ]
