@@ -19378,5 +19378,50 @@
         "dateTime": "2022-12-18T20:20:00.799Z"
       }
     ]
+  },
+  {
+    "teamName": "reject python",
+    "projects": [
+      {
+        "projectId": 6,
+        "score": 95,
+        "maxScore": 100,
+        "passed": 359,
+        "failed": 14,
+        "dateTime": "2022-12-18T20:54:20.572Z"
+      },
+      {
+        "projectId": 3,
+        "score": 77,
+        "maxScore": 77,
+        "passed": 136,
+        "failed": 0,
+        "dateTime": "2022-12-18T20:54:20.573Z"
+      },
+      {
+        "projectId": 4,
+        "score": 80,
+        "maxScore": 80,
+        "passed": 278,
+        "failed": 0,
+        "dateTime": "2022-12-18T20:54:20.573Z"
+      },
+      {
+        "projectId": 1,
+        "score": 67,
+        "maxScore": 67,
+        "passed": 75,
+        "failed": 0,
+        "dateTime": "2022-12-18T20:54:20.573Z"
+      },
+      {
+        "projectId": 5,
+        "score": 80,
+        "maxScore": 80,
+        "passed": 317,
+        "failed": 14,
+        "dateTime": "2022-12-18T20:54:20.574Z"
+      }
+    ]
   }
 ]
