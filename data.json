@@ -19529,5 +19529,58 @@
         "dateTime": "2022-12-19T09:47:14.045Z"
       }
     ]
+  },
+  {
+    "teamName": "SVN BETTER GIT",
+    "projects": [
+      {
+        "projectId": 6,
+        "score": 0,
+        "maxScore": 100,
+        "passed": 0,
+        "failed": 186,
+        "dateTime": "2022-12-19T13:02:02.167Z"
+      },
+      {
+        "projectId": 3,
+        "score": 77,
+        "maxScore": 77,
+        "passed": 53,
+        "failed": 0,
+        "dateTime": "2022-12-19T13:02:02.168Z"
+      },
+      {
+        "projectId": 4,
+        "score": 34,
+        "maxScore": 80,
+        "passed": 68,
+        "failed": 92,
+        "dateTime": "2022-12-19T13:02:02.168Z"
+      },
+      {
+        "projectId": 1,
+        "score": 67,
+        "maxScore": 67,
+        "passed": 78,
+        "failed": 0,
+        "dateTime": "2022-12-19T13:02:02.168Z"
+      },
+      {
+        "projectId": 5,
+        "score": 67,
+        "maxScore": 80,
+        "passed": 173,
+        "failed": 32,
+        "dateTime": "2022-12-19T13:02:02.169Z"
+      },
+      {
+        "projectId": 2,
+        "score": 46,
+        "maxScore": 46,
+        "passed": 155,
+        "failed": 0,
+        "dateTime": "2022-12-19T13:02:02.169Z"
+      }
+    ]
   }
 ]
